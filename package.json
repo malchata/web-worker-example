@@ -1,0 +1,19 @@
+{
+  "name": "web-worker-example",
+  "version": "1.0.0",
+  "description": "An example of web workers in action!",
+  "main": "http.js",
+  "scripts": {
+    "start": "node ./http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malchata/web-worker-example.git"
+  },
+  "author": "Jeremy L. Wagner <jeremy@jeremy.codes>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "express": "^4.17.1"
+  }
+}

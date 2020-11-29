@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+Thumbs.db
+npm-debug.log
+build-helpers/inventory.js
+build-helpers/markup.html
+htdocs/index.html
+htdocs/js/inventory.js
